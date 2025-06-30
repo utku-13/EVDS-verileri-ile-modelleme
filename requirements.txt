@@ -1,0 +1,5 @@
+evds
+pandas
+matplotlib
+python-dotenv
+jupyter 
