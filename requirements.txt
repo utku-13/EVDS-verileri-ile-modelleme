@@ -2,4 +2,7 @@ evds
 pandas
 matplotlib
 python-dotenv
-jupyter 
+jupyter
+pytrends
+seaborn
+numpy 
